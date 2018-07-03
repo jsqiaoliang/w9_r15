@@ -73,7 +73,7 @@ _INPUTREADER = _descriptor.Descriptor(
       has_default_value=True, default_value=8,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
       name='load_instance_masks', full_name='object_detection.protos.InputReader.load_instance_masks', index=6,
       number=7, type=8, cpp_type=7, label=1,
